@@ -1,4 +1,4 @@
-# Backend for the Learn App in Vue.js
+# Backend for the Learn App in Django
 
 ## Frameworks and libraries used
 * Django
